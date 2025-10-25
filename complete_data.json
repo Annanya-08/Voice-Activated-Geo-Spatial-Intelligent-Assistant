@@ -1,0 +1,605 @@
+[
+    {
+        "categoryName": "Administrative Boundaries",
+        "layers": [
+            {
+                "layerName": "Champawat:admin_hq_projected"
+            },
+            {
+                "layerName": "Champawat:champawat_district_bnd"
+            },
+            {
+                "layerName": "Champawat:champawat_blocks"
+            },
+            {
+                "layerName": "Champawat:champawat_tehsil"
+            },
+            {
+                "layerName": "Champawat:nyayapanchayatbnd_details_chmp"
+            },
+            {
+                "layerName": "Champawat:villagesbnd_champawat"
+            },
+            {
+                "layerName": "Champawat:champawat_villages"
+            },
+            {
+                "layerName": "Champawat:dist_assembly_const"
+            },
+            {
+                "layerName": "Champawat:champawat_polling_booths"
+            },
+            {
+                "layerName": "Champawat:champawat_urban_town"
+            }
+        ]
+    },
+    {
+        "categoryName": "Infrastructure",
+        "layers": [
+            {
+                "layerName": "Champawat:sports_infrastructure"
+            },
+            {
+                "layerName": "Champawat:sainik_guest_houses"
+            },
+            {
+                "layerName": "Champawat:khadiGram_Champ"
+            },
+            {
+                "layerName": "Champawat:buildings_champawat"
+            }
+        ]
+    },
+    {
+        "categoryName": "Land Resources",
+        "layers": [
+            {
+                "layerName": "Champawat:champawat_lulc2005_06"
+            },
+            {
+                "layerName": "Champawat:champawat_lulc2011_12"
+            },
+            {
+                "layerName": "Champawat:champawat_lulc2015_16"
+            },
+            {
+                "layerName": "Champawat:champawat_lulc_2021_22"
+            },
+            {
+                "layerName": "Champawat:champawat_wasteland_08_09"
+            },
+            {
+                "layerName": "Champawat:champawat_wasteland_15_16"
+            },
+            {
+                "layerName": "Champawat:degradation05_06_champ"
+            },
+            {
+                "layerName": "Champawat:degradation15_16_champ"
+            },
+            {
+                "layerName": "Champawat:soiltype"
+            },
+            {
+                "layerName": "Champawat:soildepth"
+            },
+            {
+                "layerName": "Champawat:soildrainage"
+            },
+            {
+                "layerName": "Champawat:soilerosion"
+            },
+            {
+                "layerName": "Champawat:soiltexture"
+            },
+            {
+                "layerName": "Champawat:soil_ph_champawat"
+            },
+            {
+                "layerName": "Champawat:soil_ph_5_15champ"
+            },
+            {
+                "layerName": "Champawat:soil_ph_15_30champ"
+            }
+        ]
+    },
+    {
+        "categoryName": "Geology",
+        "layers": [
+            {
+                "layerName": "Champawat:champawat_geomorphology"
+            },
+            {
+                "layerName": "Champawat:champawat_lineament"
+            },
+            {
+                "layerName": "Champawat:structure"
+            },
+            {
+                "layerName": "Champawat:champa_lithology"
+            }
+        ]
+    },
+    {
+        "categoryName": "Topography",
+        "layers": [
+            {
+                "layerName": "Champawat:contour_20m_champawat"
+            },
+            {
+                "layerName": "Champawat:contour_30m_champawat"
+            },
+            {
+                "layerName": "Champawat:contour_100m_champawat"
+            },
+            {
+                "layerName": "Champawat_slope"
+            }
+        ]
+    },
+    {
+        "categoryName": "Agriculture",
+        "layers": [
+            {
+                "layerName": "Champawat:pulses "
+            },
+            {
+                "layerName": "Champawat:wheat"
+            },
+            {
+                "layerName": "Champawat:gahat"
+            },
+            {
+                "layerName": "Champawat:kala_bhatt"
+            },
+            {
+                "layerName": "Champawat:madua"
+            },
+            {
+                "layerName": "Champawat:red_rice"
+            },
+            {
+                "layerName": "Champawat:rice"
+            }
+        ]
+    },
+    {
+        "categoryName": "Education",
+        "layers": [
+            {
+                "layerName": "Champawat:schoolinfo"
+            },
+            {
+                "layerName": "Champawat:champawat_government_girls_inter_colleges "
+            },
+            {
+                "layerName": "Champawat:anganwadi"
+            },
+            {
+                "layerName": "Champawat:champawat_government_inter_colleges"
+            },
+            {
+                "layerName": "Champawat:champawat_government_high_schools"
+            },
+            {
+                "layerName": "Champawat:champawat_higher_education"
+            },
+            {
+                "layerName": "Champawat:polytechnic"
+            },
+            {
+                "layerName": "Champawat:iti"
+            }
+        ]
+    },
+    {
+        "categoryName": "Tourism and Religious Spots",
+        "layers": [
+            {
+                "layerName": "Champawat:archaeological_sites"
+            },
+            {
+                "layerName": "Champawat:champawat_sacred_final"
+            },
+            {
+                "layerName": "Champawat:churches"
+            },
+            {
+                "layerName": "Champawat:tourism_activities"
+            },
+            {
+                "layerName": "Champawat:tourism_support_office"
+            },
+            {
+                "layerName": "Champawat:temples_final_champawat"
+            },
+            {
+                "layerName": "Champawat:kmvn_trh"
+            },
+            {
+                "layerName": "Champawat:champawat_frh_new"
+            },
+            {
+                "layerName": "Champawat:hotels_champ"
+            },
+            {
+                "layerName": "Champawat:champawat_maneater_loc"
+            },
+            {
+                "layerName": "Champawat:champawat_man_eater"
+            },
+            {
+                "layerName": "Champawat:chuka_maneater_loc"
+            },
+            {
+                "layerName": "Champawat:chuka_maneater_path"
+            },
+            {
+                "layerName": "Champawat:devidhura_loc"
+            },
+            {
+                "layerName": "Champawat:devidhura_path"
+            },
+            {
+                "layerName": "Champawat:thak_maneater_location"
+            },
+            {
+                "layerName": "Champawat:thak_maneater_path"
+            },
+            {
+                "layerName": "Champawat:talla_des_maneater_loc"
+            },
+            {
+                "layerName": "Champawat:talla_des_maneater_trail"
+            }
+        ]
+    },
+    {
+        "categoryName": "Transport",
+        "layers": [
+            {
+                "layerName": "Champawat:final_roads_district"
+            },
+            {
+                "layerName": "Champawat:railway_line_champ"
+            },
+            {
+                "layerName": "Champawat:railway_station_champ"
+            },
+            {
+                "layerName": "Champawat:helipad_champawat"
+            },
+            {
+                "layerName": "Champawat:nh_office_champ"
+            }
+        ]
+    },
+    {
+        "categoryName": "Civil Supplies",
+        "layers": [
+            {
+                "layerName": "Champawat:villages_champawat_pop"
+            },
+            {
+                "layerName": "Champawat:district supply office"
+            },
+            {
+                "layerName": "Champawat:gas_agency_champ"
+            },
+            {
+                "layerName": "Champawat:godown_champ"
+            },
+            {
+                "layerName": "Champawat:kerosene_depot_champ"
+            },
+            {
+                "layerName": "\tChampawat:petrol_pump_champ"
+            }
+        ]
+    },
+    {
+        "categoryName": "Fisheries",
+        "layers": [
+            {
+                "layerName": "Champawat:fishries"
+            },
+            {
+                "layerName": "Champawat:fishcroppingzones"
+            },
+            {
+                "layerName": "Champawat:fish_RUSC_champ"
+            },
+            {
+                "layerName": "Champawat:fisheries_champ_new"
+            }
+        ]
+    },
+    {
+        "categoryName": "Horticulture",
+        "layers": [
+            {
+                "layerName": "Champawat:teaestateoffice"
+            },
+            {
+                "layerName": "Champawat:tea_estates"
+            },
+            {
+                "layerName": "Champawat:tea_DEM_landslidelow_road"
+            },
+            {
+                "layerName": "Champawat:newahp"
+            },
+            {
+                "layerName": "Champawat:horticulture_offices_champ"
+            },
+            {
+                "layerName": "Champawat:apple_champawat"
+            },
+            {
+                "layerName": "Champawat:citrus_champ"
+            },
+            {
+                "layerName": "Champawat:tejpatta_amla"
+            },
+            {
+                "layerName": "Champawat:champawat_mango_leechi"
+            },
+            {
+                "layerName": "Champawat:vegetables_locations_champ"
+            },
+            {
+                "layerName": "Champawat:potato"
+            },
+            {
+                "layerName": "Champawat:nursery_hort"
+            },
+            {
+                "layerName": "Champawat:canning_center_new"
+            },
+            {
+                "layerName": "Champawat:hort_mobile_team"
+            }
+        ]
+    },
+    {
+        "categoryName": "Police & Security",
+        "layers": [
+            {
+                "layerName": "Champawat:police_thanaboundaries"
+            },
+            {
+                "layerName": "Champawat:police_thana"
+            },
+            {
+                "layerName": "Champawat:police_chuaki_boundary"
+            },
+            {
+                "layerName": "Champawat:police_chawki_loc"
+            },
+            {
+                "layerName": "Champawat:village_police_thana"
+            },
+            {
+                "layerName": "Champawat:police_barrier "
+            },
+            {
+                "layerName": "Champawat:police_wireless"
+            },
+            {
+                "layerName": "Champawat:fire_station"
+            },
+            {
+                "layerName": "Champawat:police_office_champ"
+            },
+            {
+                "layerName": "Champawat:police_line"
+            }
+        ]
+    },
+    {
+        "categoryName": "Disaster Management",
+        "layers": [
+            {
+                "layerName": "Champawat:champa_landslide"
+            },
+            {
+                "layerName": "Champawat:champa_earthquake"
+            },
+            {
+                "layerName": "Champawat_FloodS"
+            }
+        ]
+    },
+    {
+        "categoryName": "Health Facilities",
+        "layers": [
+            {
+                "layerName": "Champawat:hospital"
+            },
+            {
+                "layerName": "Champawat:ayurvedic hospital"
+            },
+            {
+                "layerName": "Champawat:homeopathic hospital "
+            }
+        ]
+    },
+    {
+        "categoryName": "Water Resources",
+        "layers": [
+            {
+                "layerName": "Champawat:champawat_majorrivers"
+            },
+            {
+                "layerName": "Champawat:champawat_perennial_rivers"
+            },
+            {
+                "layerName": "Champawat:drainage_corrected"
+            },
+            {
+                "layerName": "Champawat:champawat_watershed"
+            },
+            {
+                "layerName": "Champawat:champawat_tubewells"
+            },
+            {
+                "layerName": "Champawat:natural_springs_champ"
+            },
+            {
+                "layerName": "Champawat:waterfalls_champ"
+            },
+            {
+                "layerName": "Champawat:lakes_champ"
+            },
+            {
+                "layerName": "Champawat:champawat_riverbed"
+            },
+            {
+                "layerName": "Champawat:champawat_p_r100mbuf"
+            },
+            {
+                "layerName": "Champawat:groundwater_prospect_champ"
+            }
+        ]
+    },
+    {
+        "categoryName": "Forest",
+        "layers": [
+            {
+                "layerName": "Champawat:forest"
+            },
+            {
+                "layerName": "Champawat:Pine_Forest_Champawat"
+            },
+            {
+                "layerName": "\tChampawat:vegetation_typeC_Champawat"
+            }
+        ]
+    },
+    {
+        "categoryName": "Climate",
+        "layers": [
+            {
+                "layerName": "Champawat:COchmpwtclip"
+            },
+            {
+                "layerName": "Champawat:NO2chmpwtclip"
+            },
+            {
+                "layerName": "Champawat:SO2Chmpwtclipfinal"
+            },
+            {
+                "layerName": "Champawat:ozonechmpwtclip"
+            },
+            {
+                "layerName": "Champawat:UVaerosol_chmpwtclipfinal"
+            },
+            {
+                "layerName": "Champawat:NRTI_cloud_chmpwtfinal"
+            },
+            {
+                "layerName": "Champawat:NRTFormaldehyde_clip_final"
+            },
+            {
+                "layerName": "Champawat:LST2014_23_10yr_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2014_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2015_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2016_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2017_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2018_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2019_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2020_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2021_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2022_chmpwt"
+            },
+            {
+                "layerName": "Champawat:LST2023_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET_10yrChmpwt"
+            },
+            {
+                "layerName": "Champawat:ET_2014_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET_2015_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2016_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2017_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2018_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2019_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2020_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2021_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2022_chmpwt"
+            },
+            {
+                "layerName": "Champawat:ET2023_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_10yrs_rainfall"
+            },
+            {
+                "layerName": "Champawat:chirps_2014_rain_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2015_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2016_rain_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2017_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2018_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2019_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2020_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2021_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2022_chmpwt"
+            },
+            {
+                "layerName": "Champawat:chirps_2023_chmpwt"
+            }
+        ]
+    }
+]
